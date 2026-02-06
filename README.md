@@ -1,12 +1,12 @@
 # Portfolio - Vishal Singh
 
-Welcome to my personal portfolio website! This project showcases my journey as a Data Analyst, highlighting my skills, certifications, and selected projects.
+Welcome to my personal portfolio website! This project showcases my journey as a Data Analyst/Scientist Learner, highlighting my skills, certifications, and selected projects.
 
 ## 🚀 Live Demo
 *(You can update this section once you deploy your site!)*
 
 ## 👨‍💻 About Me
-I'm Vishal Singh, a Data Analyst Intern at Sabudh Foundation. I am passionate about transforming data into meaningful stories through cleaning, analysis, and visualization. My goal is to drive real change using data-driven insights.
+I’m Vishal Singh, a Data Science Intern with a strong foundation in data analysis and a growing focus on data science. I transform raw data through cleaning, analysis, and visualization to uncover insights and build data-driven solutions for real-world problems.
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3 (Custom Design, Responsive), JavaScript
@@ -46,4 +46,4 @@ I'm Vishal Singh, a Data Analyst Intern at Sabudh Foundation. I am passionate ab
 
 ## 📬 Contact
 - **LinkedIn**: [Vishal Singh](https://www.linkedin.com/in/vishall211/)
-- **GitHub**: [vishall211](https://github.com/vishall211)
+- **Email**: [vishalsingh.works@outlook.com]
